@@ -3,12 +3,12 @@
 End-to-end analytics and ML pipeline on the NYC Yellow Taxi dataset (January 2015) using **PySpark** for data processing/modeling and **Streamlit** for a simple frontend.
 
 ## Project Structure
-├─ spark_jobs/ # PySpark scripts by stage
-├─ streamlit_app/ # Streamlit UI
-├─ data/processed/ clean_sample_2015_01_csv/ # small sample + model outputs
-├─ reports/plots/ # generated PNG charts
-├─ requirements.txt
-└─ README.md
+spark_jobs: PySpark scripts by stage
+streamlit_app: Streamlit UI
+data/processed/ clean_sample_2015_01_csv/: small sample + model outputs
+reports/plots:  generated PNG charts
+requirements.txt
+README.md
 
 
 ## Features
